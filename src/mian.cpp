@@ -13,8 +13,8 @@
 
 #define MODBUS_BAUD 9600
 
-const char* SSID     = "YourSSID";
-const char* PASSWORD = "YourPassword";
+const char* SSID     = "forall";
+const char* PASSWORD = "6011898qw";
 const char* AP_SSID  = "ScraperAP";
 const char* AP_PASS  = "ap_password";
 
