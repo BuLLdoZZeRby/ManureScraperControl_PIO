@@ -1,0 +1,1 @@
+let ws=new WebSocket("ws://"+location.host+"/ws");ws.onmessage=e=>{let d=JSON.parse(e.data);document.getElementById("position-bar").style.width=d.position+"%";};
